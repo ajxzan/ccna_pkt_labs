@@ -1,0 +1,1 @@
+[CCNA Lab 002 Basic Router Security Configuration - Part 2]([URL](https://www.linkedin.com/posts/ajxzon_ccna-cisco-networking-activity-7385723241765552128-bQ8s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGAJOt0B42bBemGlGXpG40GGs7refSxyZO0))
